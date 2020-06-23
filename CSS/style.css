@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    font-weight: bold ;
+}
+ footer section   {
+    background-color: rebeccapurple;
+    padding: 5px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+} 
+header section  nav {
+    background-color: rebeccapurple;
+    padding: 5px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+} 
+h1 {
+    display: inline-block;
+    background-color:rebeccapurple ;
+    border-radius: 50px;
+    margin-left: 30px;
+    
+    
+}
+section nav ul li {
+    display: inline-block;
+    margin: 0px 50px;
+    border-radius: 20px;
+}
+footer  ul li{
+    display: inline-block;
+    margin: 0px 20px;
+}
+footer section p {
+    font-weight: bold ;
+    margin-left: 30px;
+}
+section nav ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    
+    
+}
+section nav ul li {
+    background-color: purple;
+}
+main section article  {
+    display: inline-block;
+    margin: 20px;
+}
+
+.title-items {
+    font-size: 20px;
+    display: inline-block;
+}
