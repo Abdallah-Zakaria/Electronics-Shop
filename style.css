@@ -27,6 +27,8 @@ section nav ul li {
     margin: 0px 50px;
     border-radius: 20px;
 }
+
+
 footer  ul li{
     display: inline-block;
     margin: 0px 20px;
@@ -54,3 +56,4 @@ main section article  {
     font-size: 20px;
     display: inline-block;
 }
+
