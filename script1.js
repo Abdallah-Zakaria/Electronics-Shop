@@ -1,6 +1,7 @@
 'use strict';
 
-var choice="";
+function budjet(){
+    var choice="";
 var favorite = prompt("How mush your budget ??");
 if (favorite < 200 ){
     choice = "nothing can buy it ";
@@ -18,3 +19,6 @@ if (favorite < 200 ){
    
 
 alert ("We advice you  to buy " + choice)
+
+}
+budjet();
